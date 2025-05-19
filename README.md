@@ -92,7 +92,3 @@ Ce template est volontairement minimaliste. Pour l’adapter à tes futurs proje
 ## 📂 Licence
 
 Ce projet est libre d'utilisation. Tu peux le copier, le modifier, et l’utiliser pour tes projets personnels ou professionnels.
-
----
-
-Développé avec ❤️ pour apprendre et réutiliser le modèle MVC sans frameworks.
